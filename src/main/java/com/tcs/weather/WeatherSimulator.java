@@ -76,7 +76,7 @@ public class WeatherSimulator {
 		WeatherDataUtils objWeatherDataUtils = new WeatherDataUtils();
 		HashMap<String, String> timezoneMap = objWeatherDataUtils
 				.convertTimezoneDatatoMap(timezoneFileLookupPath);
-		System.out.println(timezoneMap.toString());
+		//System.out.println(timezoneMap.toString());
 		// location|position|localtimeutc|conditions|temparature|position|humidity
 		HashMap<String, WeatherDataDto> weatherMap = objWeatherDataUtils
 				.convertWeatherDatatoMap(weatherDataInputPath, timezoneMap);
