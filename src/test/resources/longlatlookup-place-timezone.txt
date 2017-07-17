@@ -1,0 +1,4 @@
+-33.86,151.21,39|Sydney|Australia/Sydney
+-37.83,144.98,7|Melbourne|Australia/Melbourne
+-34.92,138.62,48|Adelaide|Australia/Adelaide
+17.38,78.48,505|Hyderabad|Asia/Kolkata
