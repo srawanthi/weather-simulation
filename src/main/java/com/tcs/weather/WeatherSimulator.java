@@ -9,11 +9,11 @@ import com.tcs.weather.constants.WeatherConstants;
 import com.tcs.weather.dto.WeatherDataDto;
 
 /**
- * 
+ * fdfsdf
  * @author srawanthi.samala Weather Simulator is taking an arguments like
  *         placeName, date, time, timezoneFileLookupPath, weatherDataInputPath
  *         and generating Weather data as
- *         location|position|localtimeutc|conditions
+ *         location|position|localtimeutc|conditions  checking
  *         |temparature|position|humidity
  */
 public class WeatherSimulator {
